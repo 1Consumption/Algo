@@ -1,3 +1,4 @@
+``` swift
 //
 //  main.swift
 //  test
@@ -25,4 +26,4 @@ func solution(_ clothes:[[String]]) -> Int {
     
     return result - 1
 }
-
+```

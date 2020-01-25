@@ -1,3 +1,4 @@
+``` swift
 //
 //  main.swift
 //  test
@@ -28,4 +29,4 @@ class Solution {
         return 0
     }
 }
-
+```
