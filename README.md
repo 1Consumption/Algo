@@ -29,6 +29,7 @@
   * 가운데 글자 가져오기 https://programmers.co.kr/learn/courses/30/lessons/12903
   * 가장 큰 수 https://programmers.co.kr/learn/courses/30/lessons/42746
   * 나누어 떨어지는 배열 https://programmers.co.kr/learn/courses/30/lessons/12910
+  * 다리를 지나는 트럭 https://programmers.co.kr/learn/courses/30/lessons/42583
   * 두 정수 사이으 합 https://programmers.co.kr/learn/courses/30/lessons/12912
   * 모의고사 https://programmers.co.kr/learn/courses/30/lessons/42840
   * 문자열 내 마음대로 정렬하기 https://programmers.co.kr/learn/courses/30/lessons/12915
