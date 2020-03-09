@@ -28,6 +28,7 @@
   * K번째 수 https://programmers.co.kr/learn/courses/30/lessons/42748
   * 가운데 글자 가져오기 https://programmers.co.kr/learn/courses/30/lessons/12903
   * 가장 큰 수 https://programmers.co.kr/learn/courses/30/lessons/42746
+  * 기능개발 https://programmers.co.kr/learn/courses/30/lessons/42586
   * 나누어 떨어지는 배열 https://programmers.co.kr/learn/courses/30/lessons/12910
   * 다리를 지나는 트럭 https://programmers.co.kr/learn/courses/30/lessons/42583
   * 두 정수 사이으 합 https://programmers.co.kr/learn/courses/30/lessons/12912
