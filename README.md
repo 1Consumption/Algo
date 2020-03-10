@@ -24,21 +24,24 @@
 <summary>프로그래머스</summary>
 <div markdown="1">
  
-  * 2016년 https://programmers.co.kr/learn/courses/30/lessons/12901
-  * K번째 수 https://programmers.co.kr/learn/courses/30/lessons/42748
-  * 가운데 글자 가져오기 https://programmers.co.kr/learn/courses/30/lessons/12903
-  * 가장 큰 수 https://programmers.co.kr/learn/courses/30/lessons/42746
-  * 기능개발 https://programmers.co.kr/learn/courses/30/lessons/42586
-  * 나누어 떨어지는 배열 https://programmers.co.kr/learn/courses/30/lessons/12910
-  * 다리를 지나는 트럭 https://programmers.co.kr/learn/courses/30/lessons/42583
-  * 두 정수 사이으 합 https://programmers.co.kr/learn/courses/30/lessons/12912
-  * 모의고사 https://programmers.co.kr/learn/courses/30/lessons/42840
-  * 문자열 내 마음대로 정렬하기 https://programmers.co.kr/learn/courses/30/lessons/12915
-  * 문자열 압축 https://programmers.co.kr/learn/courses/30/lessons/60057?language=swift
-  * 완주하지 못한 선수 https://programmers.co.kr/learn/courses/30/lessons/42576?language=java
-  * 위장 https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift
-  * 체육복 https://programmers.co.kr/learn/courses/30/lessons/42862#
-  * 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
+ * Level 1
+   * 2016년 https://programmers.co.kr/learn/courses/30/lessons/12901
+   * K번째 수 https://programmers.co.kr/learn/courses/30/lessons/42748
+   * 가운데 글자 가져오기 https://programmers.co.kr/learn/courses/30/lessons/12903
+   * 나누어 떨어지는 배열 https://programmers.co.kr/learn/courses/30/lessons/12910
+   * 두 정수 사이의 합 https://programmers.co.kr/learn/courses/30/lessons/12912
+   * 모의고사 https://programmers.co.kr/learn/courses/30/lessons/42840
+   * 문자열 내 마음대로 정렬하기 https://programmers.co.kr/learn/courses/30/lessons/12915
+   * 완주하지 못한 선수 https://programmers.co.kr/learn/courses/30/lessons/42576?language=java
+   * 체육복 https://programmers.co.kr/learn/courses/30/lessons/42862#
+ * Level 2
+   * 기능개발 https://programmers.co.kr/learn/courses/30/lessons/42586
+   * 가장 큰 수 https://programmers.co.kr/learn/courses/30/lessons/42746
+   * 다리를 지나는 트럭 https://programmers.co.kr/learn/courses/30/lessons/42583
+   * 문자열 압축 https://programmers.co.kr/learn/courses/30/lessons/60057?language=swift
+   * 스킬트리 https://programmers.co.kr/learn/courses/30/lessons/49993#fnref1
+   * 위장 https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift
+   * 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
   
 </div>
 </details>
