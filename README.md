@@ -39,6 +39,7 @@
    * 가장 큰 수 https://programmers.co.kr/learn/courses/30/lessons/42746
    * 다리를 지나는 트럭 https://programmers.co.kr/learn/courses/30/lessons/42583
    * 문자열 압축 https://programmers.co.kr/learn/courses/30/lessons/60057?language=swift
+   * 쇠막대기 https://programmers.co.kr/learn/courses/30/lessons/42585
    * 스킬트리 https://programmers.co.kr/learn/courses/30/lessons/49993#fnref1
    * 위장 https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift
    * 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
