@@ -42,6 +42,7 @@
    * 쇠막대기 https://programmers.co.kr/learn/courses/30/lessons/42585
    * 스킬트리 https://programmers.co.kr/learn/courses/30/lessons/49993#fnref1
    * 위장 https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift
+   * 조이스틱 https://programmers.co.kr/learn/courses/30/lessons/42860
    * 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
   
 </div>
